@@ -1,0 +1,1 @@
+this file need to read from the terraform application persmons
